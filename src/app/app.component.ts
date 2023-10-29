@@ -14,5 +14,5 @@ import { Component } from "@angular/core";
 
 export class AppComponent 
 {
-  pageTitle: string = 'Product Showcase by Angular';
+  pageTitle: string = 'Framework by Angular';
 }
